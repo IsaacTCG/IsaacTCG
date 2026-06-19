@@ -38,7 +38,9 @@
 <br><br>
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=IsaacTCG&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=IsaacTCG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div style="display: flex; align-items: flex-start; gap: 20px; width: 100%;">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=IsaacTCG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.shion.dev/api?username=IsaacTCG&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
