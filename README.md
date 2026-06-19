@@ -1,5 +1,5 @@
 # Olá, eu sou Isaac 👋
-##### Sou `Engenheiro de Software` com experiência profissional desde `novembro/2021`. Atuo profissionalmente com o ecossistema JavaScript/TypeScript e Ruby on Rails, atuando no backend e frontend. Atualmente estou me aprofundando em Python, com foco em backend, arquitetura de software, automações e aplicações com inteligência artificial.
+#### Sou `Engenheiro de Software` com experiência profissional desde `novembro/2021`. Atuo profissionalmente com o ecossistema JavaScript/TypeScript e Ruby on Rails, atuando no backend e frontend. Atualmente estou me aprofundando em Python, com foco em backend, arquitetura de software, automações e aplicações com inteligência artificial.
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-caldas) 
