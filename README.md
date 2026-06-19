@@ -1,4 +1,3 @@
-# 💫 About Me:
 # Olá, eu sou Isaac 👋
 ##### Sou `Engenheiro de Software` com experiência profissional desde `novembro/2021`. Atuo profissionalmente com o ecossistema JavaScript/TypeScript e Ruby on Rails, atuando no backend e frontend. Atualmente estou me aprofundando em Python, com foco em backend, arquitetura de software, automações e aplicações com inteligência artificial.
 
